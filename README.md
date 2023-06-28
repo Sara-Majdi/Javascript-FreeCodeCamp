@@ -26,7 +26,14 @@
 
 **Object Oriented Programming**
 -
-
+</br>
 
 **Functional Programming**
 - 
+</br>
+
+**Intermediate Algorithm Scripting**
+</br>
+
+JavaScript Algorithms and Data Structures Projects
+</br>
