@@ -25,7 +25,11 @@
 </br>
 
 **Object Oriented Programming**
--
+- Slice and Splice
+- Falsy Bouncer
+- Where do I belong
+- Mutations
+- Chunky Monkey
 </br>
 
 **Functional Programming**
