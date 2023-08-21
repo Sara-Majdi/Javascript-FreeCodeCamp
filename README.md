@@ -50,6 +50,15 @@
 
 **Intermediate Algorithm Scripting**
 </br>
+- Create A Basic Javascript Object
+- Use Dot Notation to Access the Properties of an Object
+- Create a Method on an Object
+- Make Code More Reusable with the "this" Keyword
+- Define a Constructor Function
+- Use a Constructor to Create Objects
+- Extend Constructors to Receive Arguments
+- Verify an Object's Constructor with instaceof
+- Understand Own Properties
 
 JavaScript Algorithms and Data Structures Projects
 </br>
