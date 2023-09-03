@@ -1,4 +1,4 @@
-# Javascript-FreeCodeCamp
+# Javascript-FreeCodeCamp 🌐
 
 </br>
 </br>
